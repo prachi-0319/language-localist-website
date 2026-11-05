@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow form pages (no-index forms from crawlers)
+Disallow: /estimate.html
+
+# Sitemap
+Sitemap: https://www.languagelocalist.com/sitemap.xml
+
